@@ -1,13 +1,16 @@
 ---
-title: "Great software made by professionals"
-subtitle: Support sustainable farming while enjoying a cup
+title: "Kompetenz und Kommunikation"
+subtitle: "Ihr Partner für innovative IT-Lösungen"
 image: /img/00_Panorama_Web_ISTEC_Team_01.jpg
 blurb:
-    heading: Why ISTEC?
-    text: "ISTEC is the software consultant partner for eveyone who trusts on longterm partnership."
+    heading: Warum ISTEC?
+    text: "ISTEC-Kunden profitieren von unserem IT-Wissen in Kombination mit unserem Fach-Know-how. So sind wir in der Lage, Anforderungen umfassend zu analysieren, um die beste Lösung im Sinne unseres Auftraggebers umzusetzen und zu betreuen."
 intro: 
-    heading: "What we offer"
-    text: "ISTEC is ...."
+    heading: "Ihr Partner für"
+    text: "das Management von IT-Projekten aller Art, 
+    die Umsetzung komplexer Anforderungen in Prozesse und Individual-Software,
+    die Life-Cycle-Betreuung von IT-Systemen
+    und für eine langfristige, vertrauensvolle Zusammenarbeit."
 products:
     - image: img/illustrations-coffee.svg
       text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
